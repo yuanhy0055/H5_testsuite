@@ -1,0 +1,38 @@
+<!--https://developer.mozilla.org/en/DOM/window.navigator.connection -->
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+  <div>
+    <span id="type"></span>
+    <br/>
+    <span id="bandwidth"></span>
+  </div>
+  
+  <script type="text/javascript">
+  var connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;	
+  if(connection){
+	  alert ("Connection type: " + connection.type);
+  }else{
+	  alert("Connection API not available");
+  }
+  
+  document.getElementById("type").innerHTML = "the network type is:" + connection.type;
+  document.getElementById("bandwidth").innerHTML = "the network bandwidth is:" + connection.bandwidth + " MB/s";
+  
+  function updateConnectionStatus() {  
+  alert("Connection bandwidth: " + connection.bandwidth + " MB/s");  
+  if (connection.metered) {  
+    alert("The connection is metered!");  
+  }  
+  }  
+  
+  connection.addEventListener("change", updateConnectionStatus);  
+  updateConnectionStatus(); 
+  </script>
+</body>
+</html>

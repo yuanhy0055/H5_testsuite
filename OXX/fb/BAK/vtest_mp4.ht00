@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Video.js | HTML5 Video Player</title>
+
+  <link href="http://10.120.137.21/html5/fb/lib/video-js.css" rel="stylesheet">
+
+  <!-- video.js must be in the <head> for older IEs to work. -->
+  <script src="http://10.120.137.21/html5/fb/lib/video.js"></script>
+
+</head>
+<body>
+
+  <video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" width="640" height="264"
+      poster="http://video-js.zencoder.com/oceans-clip.png"
+      data-setup="{}"
+      data-subtitles="demo-subtitles_utf-8.srt">
+    <source src="http://10.120.137.21/html5/fb/res/oceans-clip.mp4" type='video/mp4' />
+
+    <track kind="subtitles" src="http://10.120.137.21/html5/fb/res/demo-subtitles_utf-8.srt" />
+
+  </video>
+
+</body>
+</html>

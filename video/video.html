@@ -1,0 +1,34 @@
+
+<!--MPEG-4视频地址：http://114.80.184.12/youku/67731D34AAE3D8143C492A571F/03002001004ED78F3A3FA10317B7211B9DB009-4BDA-3C14-81A3-3404D1D88134.mp4-->
+
+<!--OGG视频地址：http://www.w3school.com.cn/i/movie.ogg -->
+
+<!--图片地址：http://bqspga.blu.livefilestore.com/y1pfXJvHdJQvICpl1JgSLO9uzsG3FYGkZjeKMdYjQSldLwcp1lan-7Hg68WYfxU6tg1JLAtqyIDUOMgqLThRtlBAt2npGUPGRjq/%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90%E7%8C%AB%E5%85%88%E7%94%9F01.jpg -->
+
+<!--其中poster标签中图片可以用网址和本地图片名称两种方式引用，采用后者的话，图片需与html文件位于同一文件夹下-->
+
+<!DOCTYPE HTML>
+<html>
+<body>
+
+<video width="472" height="264" preload="metadata" controls poster="http://leanbackplayer.com/videos/poster/elephants_dream_640x360.jpg">
+  <!--ogg格式
+  <source src="http://www.w3school.com.cn/i/movie.ogg" type="video/ogg"></source>  -->
+  <!-- 本地ogg格式 -->
+  <source src="movie.ogg" type="video/ogg"></source> 
+  <!--mp4格式
+  <source src="http://202.102.82.44/youku/6971AE5045635815ED06A93BEF/03002001004F0D26759FC4019C3C1C0D074A0C-E38A-D605-35B1-CAEA35BB2CD2.mp4" type="video/mp4"></source>  -->
+  <!-- 本地mp4格式 
+  <source src="ygr.mp4" type="video/mp4"></source> -->
+  <!-- WebM 
+  <source src="elephants.webm" type='video/webm; codecs="vp8, vorbis"' ></source> -->
+  <!-- H.264 
+  <source src="H264.mp4" type="video/H264"></source> -->
+  Your browser does not support the video element
+</video>
+
+</body>
+</html>
+
+
+

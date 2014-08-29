@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>无标题文档</title>
+<script type="text/javascript">
+document.getElementById('touchable').addEventListener('touchend', function(ev) {
+
+    /**
+     * Example output when three touch points are on the surface,
+     * two of them being on the "touchable" element and one point
+     * in the "touchable" element is lifted from the surface:
+     *
+     * Touch points removed: 1
+     * Touch points left on element: 1
+     * Touch points left on document: 2
+     */
+
+    document.write('Removed: ' + ev.changedTouches.length);
+    document.write('Remaining on element: ' + ev.targetTouches.length);
+    document.write('Remaining on document: ' + ev.touches.length);
+
+}, false);
+</script>
+</head>
+
+<body>
+  <div id='touchable' style="width:500px; height:700px; background-color:#6FF;">
+    This element is touchable.
+  </div>
+</body>
+</html>

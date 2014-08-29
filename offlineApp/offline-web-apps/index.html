@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+
+<html manifest="offline.manifest">
+
+  <head>
+    <title>HTML5 Application Cache</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href = "html5.css">
+  </head>
+
+  <div id="container">
+	
+    <header>
+        <h1>Index Page</h1>
+        <h4>Kaazing HTML5 Training</h4>
+    </header>
+    
+    <nav>
+        <h2>Links</h2>
+        <a href="index.html">Index Page</a>
+        <a href="cache.html">Cache Page</a>
+        <a href="network.html">Network Page</a>
+    </nav>
+
+    <section>
+      <article>
+	    <h2>HTML5 App Cache Events</h2>
+		  <button id="installButton">Check for Updates</button>
+        <div id="info"></div>
+      </article>
+    </section>
+
+   <aside>
+      <h2>About</h2>
+     <p>Application Cache is a new HTML5 feature that can be used to create offline applications and dramatically speed up your web applications’ by prefetching your sites’ assets.</p>
+   </aside>
+
+    <footer>
+        <p>Powered by HTML5</p>
+    </footer>
+
+  </div>
+
+  <script type="text/javascript">
+   
+    // when the page loads, set the status to online or offline
+    function loadDemo() {
+        if (navigator.onLine) {
+            log("Initial status: online");
+            return;
+        } else {
+            log("Initial status: offline");
+            return;
+        }
+    }
+        
+
+    // add listeners on page load and unload
+    window.addEventListener("load", loadDemo, true);
+
+	log = function() {
+	    var p = document.createElement("p");
+	    var message = Array.prototype.join.call(arguments, " ");
+	    p.innerHTML = message;
+	    document.getElementById("info").appendChild(p);
+	}
+	
+	/*
+	 * log each of the events fired by window.applicationCache
+	 */
+
+	window.applicationCache.onchecking = function(e) {
+	    log("Checking for application update");
+	}
+
+	window.applicationCache.onnoupdate = function(e) {
+	    log("No application update found");
+	}
+
+	window.applicationCache.onupdateready = function(e) {
+	    log("Application update ready");
+	}
+
+	window.applicationCache.onobsolete = function(e) {
+	    log("Application obsolete");
+	}
+
+	window.applicationCache.ondownloading = function(e) {
+	    log("Downloading application update");
+	}
+
+	window.applicationCache.oncached = function(e) {
+	    log("Application cached");
+	}
+
+	window.applicationCache.onerror = function(e) {
+	    log("Application cache error");
+	}
+
+	window.applicationCache.onprogress = function(e) {
+	    log("Application Cache progress");
+	}
+	
+	window.addEventListener("online", function(e) {
+	    log("Application is now online");
+	}, true);
+
+	window.addEventListener("offline", function(e) {
+	    log("Application is now offline");
+	}, true);
+
+
+	/*
+	 * Convert applicationCache status codes into messages
+	 */
+	showCacheStatus = function(n) {
+	    statusMessages = ["Uncached","Idle","Checking","Downloading","Update Ready","Obsolete"];
+	    return statusMessages[n];
+	}
+
+	install = function() {
+	    log("Checking for updates");
+	    try {
+	        window.applicationCache.update();
+	        window.applicationCache.swapCache();
+	    } catch (e) {
+	        applicationCache.onerror();
+	    }
+	}
+
+	onload = function(e) {
+	    // Check for required browser features
+	    if (!window.applicationCache) {
+	        log("HTML5 offline web applications are not supported in your browser.");
+	        return;
+	    }
+
+
+	    log("Initial cache status: " + showCacheStatus(window.applicationCache.status));
+	    document.getElementById("installButton").onclick = install;
+
+	}
+	
+  </script>
+
+</html>

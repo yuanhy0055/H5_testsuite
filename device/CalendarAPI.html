@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Calendar API</title>
+<script type="text/javascript">
+	if (navigator.calendar!=undefined) {
+		alert ("calendar API is supported ");
+	} else {
+		alert("calendar API not available");
+	}
+	
+	function success (events) {
+    	// do something with resulting list of objects
+    	for (var i in events) 
+    		alert(events[i].id);
+	}
+
+	function error (err) {
+    	// do something with resulting errors
+   		alert(err.code);
+	}
+
+	// Perform an calendar search. Initially filter the list to Calendar records starting 
+	// before April 9, 2011 @ 5pm (UTC).
+	navigator.calendar.findEvents( success, error, { filter: { startBefore: '2011-04-10T05:00:00+12:00' } });
+</script>
+</head>
+<body>
+  <a href="http://www.w3.org/TR/2011/WD-calendar-api-20110419/">Calendar API</a>
+</body>
+</html>

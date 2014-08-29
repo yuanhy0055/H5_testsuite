@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Messaging API</title>
+<script type="text/javascript">
+
+	function successCB() {
+	   alert("The Message has been sent successfully");
+	}
+	function errorCB(error) {
+	   alert("The Message could not be sent " + error.code);
+	}
+	if (navigator.device.sendMessage) {
+	   picture = document.getElementById('attachment').files[0];
+	   navigator.device.sendMessage("mms:+460000000001?body=Welcome%20%to%Atlantis", [picture], successCB, errorCB);
+	}
+</script>
+</head>
+<body>
+  <a href="http://www.w3.org/TR/messaging-api/">Messaging API</a>
+</body>
+</html>

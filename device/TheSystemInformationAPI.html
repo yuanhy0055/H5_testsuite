@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>The System Information API</title>
+<script type="text/javascript">
+	if (navigator.system!=undefined) {
+		alert ("System Information API is supported ");
+	} else {
+		alert("System Information API not available");
+	}
+
+	//Alert the user when the power level is below 90% 
+	navigator.system.watch("Power",success,null,{lowThreshold:0.9});
+	function success(power) {
+  		alert("Low battery level: "+power.level);
+	};
+</script>
+</head>
+<body>
+  <a href="http://www.w3.org/TR/2010/WD-system-info-api-20100202/">The System Information API</a>
+</body>
+</html>

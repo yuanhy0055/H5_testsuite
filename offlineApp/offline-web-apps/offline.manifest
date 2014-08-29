@@ -1,0 +1,16 @@
+CACHE MANIFEST
+# manifest version 1.0.1
+# Files to cache
+index.html
+cache.html
+html5.css
+image1.jpg
+
+# Use from network if available
+NETWORK:
+network.html
+# This file contains image2.png (not cached)
+
+# Fallback content
+FALLBACK:
+/ fallback.html

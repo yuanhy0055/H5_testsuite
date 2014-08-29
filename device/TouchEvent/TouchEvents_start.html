@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+	<div id='touchable' style="width:500px; height:700px; background-color:#6FF;">
+    This element is touchable.
+    </div>
+    <script type="text/javascript">          
+		document.getElementById('touchable').addEventListener('touchstart', function(ev) {
+			if (ev.touches.item(0) == ev.targetTouches.item(0))
+    		{
+        	/**
+         	* If the first touch on the surface is also targeting the
+         	* "touchable" element, the code below should execute.
+         	* Since targetTouches is a subset of touches which covers the
+         	* entire surface, TouchEvent.touches >= TouchEvents.targetTouches
+         	* is always true.
+         	*/
+        		document.write('Hello Touch Events!' + '\n');
+				alert("Hello Touch Events!");
+    		}
+
+    		if (ev.touches.length == ev.targetTouches.length)
+    		{
+        	/**
+         	* If all of the active touch points are on the "touchable"
+         	* element, the length properties should be the same.
+         	*/
+        		document.write('All points are on target element' + '\n')
+				alert("All points are on target element");
+    		}
+
+    		if (ev.touches.length > 1)
+    		{
+        	/**
+        	 * On a single touch input device, there can only be one point
+         	* of contact on the surface, so the following code can only
+         	* execute when the terminal supports multiple touches.
+         	*/
+        	document.write('Hello Multiple Touch!' + '\n');
+			alert('Hello Multiple Touch!');
+    		}
+
+		}, false);
+	</script>
+</body>
+</html>

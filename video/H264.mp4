@@ -1,0 +1,730 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://developers.facebook.com/schema/">
+<head id="ctl00_PageTemplateHead"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <style>
+	@import url("/Stylesheets/styles.css") ;
+	@import url("/Stylesheets/ddsmoothmenu.css");
+</style>
+    <!-- drop menu scripts -->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>    
+    <script type="text/javascript" src="/scripts/ddsmoothmenu.js"></script>
+    <script type="text/javascript">
+ddsmoothmenu.init({
+	mainmenuid: "smoothmenu1", //menu DIV id
+	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+</script>
+<!-- Google +1 script -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+    <!-- google ads -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-5277869143274761");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-5277869143274761", "StreamingMedia-Banners");
+  GA_googleAddSlot("ca-pub-5277869143274761", "StreamingMedia-Leaderboards");
+  GA_googleAddSlot("ca-pub-5277869143274761", "StreamingMedia-WideSkyscrapers");
+  GA_googleAddSlot("ca-pub-5277869143274761", "StreamingMedia-SmallBoxes");
+</script>
+    <script language="javascript">
+
+</script>
+    <script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+
+    <!-- END OF google ads -->
+    <title>
+	Page Not Found - Streaming Media Magazine
+</title><link rel="shortcut icon" href="/favicon.ico" /><meta name="google-site-verification" content="qPi-p2xVPY7HKqBvEBLCbwckFIEJhI9BV-JLEhjNYJ8" /><meta name="y_key" content="999888d39b86647f" /><meta property="og:site_name" content="Streaming Media Magazine" /><meta property="fb:admins" content="1448114697,1398034021,692216861,100000228928066,682155031,100002198524905" /><meta property="fb:app_id" content="184987698195523" /><meta property="og:latitude" content="39.898477" /><meta property="og:longitude" content="-74.83999" /><meta property="og:street-address" content="143 Old Marlton Pike" /><meta property="og:locality" content="Medford" /><meta property="og:region" content="NJ" /><meta property="og:postal-code" content="08055" /><meta property="og:country-name" content="USA" /><meta property="fb:page_id" content="337752625512" /><meta property="og:type" content="website" />
+<meta name="title" content="Page Not Found" />
+<meta property="og:title"  content="Page Not Found" />
+<meta name="description" content="StreamingMedia.com is the #1 destination for professionals seeking streaming and online video industry news, information, articles, directories and services." />
+<meta property="og:description" content="StreamingMedia.com is the #1 destination for professionals seeking streaming and online video industry news, information, articles, directories and services." />
+<meta property="og:url" content="http://www.streamingmedia.com/Errors/Error404.aspx?404;http://www.streamingmedia.com:80/articleimages/ozerdemos/H264.mp4" />
+<link name="canonical" content="http://www.streamingmedia.com/Errors/Error404.aspx?404;http://www.streamingmedia.com:80/articleimages/ozerdemos/H264.mp4" />
+</head>
+<!-- begin header module -->
+<body>
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({appId: 184987698195523, status: true, cookie: true,
+             xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+    <form name="aspnetForm" method="post" action="/Errors/Error404.aspx?404;http://www.streamingmedia.com:80/articleimages/ozerdemos/H264.mp4" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjU4MjgwOTI2ZGQrnZxCgeDcQkXzSZk/AfV2NH9RRw==" />
+</div>
+
+        <div class="container">
+            <div id="header">
+                <div id="logo">
+                    <a href="http://www.streamingmedia.com">
+                        <img src="/images/TemplateImages/logo.png" width="261" height="73" border="0" /></a>
+				</div>
+                <div id="adLeaderboard">
+                    
+
+<!-- begin doubleclick 728x90 module -->
+<script type="text/javascript">
+  GA_googleFillSlot("StreamingMedia-Leaderboards");
+</script>
+<!-- end doubleclick 728x90 module -->
+
+
+                </div>
+            </div>
+        </div>
+        
+<div id="menuBar">
+	<div id="smoothmenu1" class="ddsmoothmenu">
+		<ul>
+				<li><a href="http://www.streamingmedia.com" title="U.S. Site">U.S. Site</a></li>
+			</li>
+			<li><a href="http://www.streamingmediaglobal.com" title="Global Site">Global Site</a>
+			</li>
+			<li><a href="http://www.streamingmedia.com/Subscribe" title="Magazine">Subscribe</a>
+				<ul>
+				<li><a href="http://www.omeda.com/strm/" title="Subscribe to Magazine">Magazine</a></li>
+				<li><a href="http://www.streamingmedia.com/Newsletters" title="Preview Newsletter">Newsletters</a></li>
+				<li><a href="http://www.streamingmedia.com/RSS/Rss_feeds.aspx" title="RSS Feeds"><img src="/Images/TemplateImages/iconRss.gif" border="0" align="absmiddle" hspace="3">RSS Feeds</a></li>
+				</ul>
+			</li>
+			<li><a href="http://www.streamingmedia.com" title="Articles">Articles</a>
+				<ul>
+				<li><a href="http://www.streamingmedia.com/Articles/News" title="News">News</a></li>
+				<li><a href="http://www.streamingmedia.com/Articles/Features" title="Features">Features</a></li>
+				<li><a href="http://www.streamingmedia.com/Articles/What_Is" title="What Is">"What Is..."</a></li>
+				<li><a href="http://www.streamingmedia.com/Articles/Sponsored_Articles" title="Sponsored Articles">Sponsored Articles</a></li>
+				<!--<li><a href="http://www.streamingmedia.com/Articles/Reviews">Reviews</a></li>-->
+				<li><a href="http://www.streamingmedia.com/PressRelease" title="Industry Announcements">Industry Announcements</a></li>
+				<li><a href="http://www.streamingmedia.com/Previous_Issues" title="Magazine">Magazine</a></li>
+				<li><a href="http://blog.streamingmedia.com" target="_blank">Blog</a></li>
+				</ul>
+      </li>
+			<li><a href="http://www.streamingmedia.com" title="Video">Video</a>
+				<ul>
+				<li><a href="http://www.streamingmedia.com/StreamingMediaTV" title="Streaming Media TV">Streaming Media TV</a></li>
+				<li><a href="http://www.streamingmedia.com/ConferenceVideos" title="Conference Videos">Conference Videos</a></li>
+				<li><a href="http://www.streamingmedia.com/RedCarpet" title="Red Carpet Interviews">Red Carpet Interviews</a></li>
+				<li><a href="http://www.streamingmedia.com/Tutorials" title="Video Tutorials">Video Tutorials</a></li>
+<!--				<li><a href="http://www.streamingmedia.com/SponsoredVideos">Sponsored Videos</a></li>-->
+				</ul>
+      </li>
+			
+<!-- begin categories module -->
+
+    <li><a id="ctl00_NavMenu_1_CL_Topics_rptCategories_ctl00_CaptionText">Topics</a>
+        <ul>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_Topics_rptCategories_ctl01_Category" href="http://www.streamingmedia.com/Categories/Advertising_427.aspx">Advertising</a>
+    </li>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_Topics_rptCategories_ctl02_Category" href="http://www.streamingmedia.com/Categories/Content-Creation-Production_421.aspx">Content Creation/Production</a>
+    </li>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_Topics_rptCategories_ctl03_Category" href="http://www.streamingmedia.com/Categories/Content-Protection-DRM_428.aspx">Content Protection/DRM</a>
+    </li>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_Topics_rptCategories_ctl04_Category" href="http://www.streamingmedia.com/Categories/Encoding-Transcoding_422.aspx">Encoding/Transcoding</a>
+    </li>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_Topics_rptCategories_ctl05_Category" href="http://www.streamingmedia.com/Categories/Formats-Players-Codecs_429.aspx">Formats/Players/Codecs</a>
+    </li>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_Topics_rptCategories_ctl06_Category" href="http://www.streamingmedia.com/Categories/Hosting-Delivery_419.aspx">Hosting/Delivery</a>
+    </li>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_Topics_rptCategories_ctl07_Category" href="http://www.streamingmedia.com/Categories/IPTV_430.aspx">IPTV</a>
+    </li>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_Topics_rptCategories_ctl08_Category" href="http://www.streamingmedia.com/Categories/Legal-Issues_436.aspx">Legal Issues</a>
+    </li>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_Topics_rptCategories_ctl09_Category" href="http://www.streamingmedia.com/Categories/Mobile_431.aspx">Mobile</a>
+    </li>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_Topics_rptCategories_ctl10_Category" href="http://www.streamingmedia.com/Categories/Music-Radio_432.aspx">Music/Radio</a>
+    </li>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_Topics_rptCategories_ctl11_Category" href="http://www.streamingmedia.com/Categories/Online-Video-Platforms_433.aspx">Online Video Platforms</a>
+    </li>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_Topics_rptCategories_ctl12_Category" href="http://www.streamingmedia.com/Categories/Video-SEO_434.aspx">Video SEO</a>
+    </li>
+
+        </UL>
+   </li>
+
+<!-- end categories module -->
+			
+<!-- begin categories module -->
+
+    <li><a id="ctl00_NavMenu_1_CL_VertMarkets_rptCategories_ctl00_CaptionText">Industry Verticals</a>
+        <ul>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_VertMarkets_rptCategories_ctl01_Category" href="http://www.streamingmedia.com/Categories/Education_426.aspx">Education</a>
+    </li>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_VertMarkets_rptCategories_ctl02_Category" href="http://www.streamingmedia.com/Categories/Enterprise_424.aspx">Enterprise</a>
+    </li>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_VertMarkets_rptCategories_ctl03_Category" href="http://www.streamingmedia.com/Categories/Government_435.aspx">Government</a>
+    </li>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_VertMarkets_rptCategories_ctl04_Category" href="http://www.streamingmedia.com/Categories/Media-Entertainment_425.aspx">Media/Entertainment</a>
+    </li>
+
+    <li>
+	    <a id="ctl00_NavMenu_1_CL_VertMarkets_rptCategories_ctl05_Category" href="http://www.streamingmedia.com/Categories/Streaming-Industry_423.aspx">Streaming Industry</a>
+    </li>
+
+        </UL>
+   </li>
+
+<!-- end categories module -->
+
+			<li><a href="http://www.streamingmedia.com" title="Resources">Resources</a>
+      <ul>
+			<li><a href="http://www.streamingmedia.com/Sourcebook" title="Industry Directory">Industry Directory</a></li>
+			<li><a href="http://forums.streamingmedia.com/">Forums</a></li>
+			<li><a href="http://www.streamingmedia.com/Discussion" title="Discussion Lists">Discussion Lists</a></li>
+			<li><a href="http://www.streamingmedia.com/Whitepapers" title="White Papers">White Papers</a></li>
+			<li><a href="http://www.streamingmedia.com/IndustryWhitepapers" title="Industry Whitepapers">Industry Whitepapers</a></li>
+			<li><a href="http://www.streamingmedia.com/Articles/What_Is" title="What Is">"What Is..."</a></li>
+			<li><a href="http://www.streamingmedia.com/Jobs" title="Jobs">Jobs</a></li>
+			<li><a href="http://www.streamingmedia.com/PressRelease" title="Industry Announcements">Industry Announcements</a></li>
+<!--			<li><a href="http://www.streamingmedia.com/Research" title="Research Reports">Research Reports</a></li>
+			<li><a href="http://www.streamingmedia.com/Glossary">Glossary</a></li>-->
+      </ul>
+     </li>
+			<li><a href="http://www.streamingmedia.com/Webevents" title="Web Events">Web Events</a></li>
+			<li><a href="http://www.streamingmedia.com/Conferences" title="Conferences">Conferences</a>
+      <ul>
+			<li><a href="http://www.contentdeliverysummit.com" title="Content Delivery Summit">Content Delivery Summit</a></li>
+			<li><a href="http://www.streamingmedia.com/Conferences/East/" title="Streaming Media East">Streaming Media East</a></li>			
+			<li><a href="http://www.streamingmediaglobal.com/Conference/2011/cds" title="Content Delivery Summit Europe">Content Delivery Summit Europe</a></li>
+			<li><a href="http://www.streamingmediaglobal.com/Conference/2011/ch" title="Connected Home 2011">Connected Home 2011</a></li>
+			<li><a href="http://www.streamingmediaglobal.com/Conference" title="Streaming Media Europe">Streaming Media Europe</a></li>
+			<li><a href="http://www.streamingmediaglobal.com/Conference/2011/ovs" title="Online Video Strategies">Online Video Strategies</a></li>			
+			<li><a href="http://www.streamingmedia.com/Conferences/West/" title="Streaming Media West">Streaming Media West</a></li>
+			<li><a href="http://www.html5videosummit.com/" title="HTML5 Video Summit">HTML5 Video Summit</a></li>
+			
+			<li><a href="http://www.streamingmedia.com/Conferences" title="Past Conferences">Past Conferences</a></li>
+      </ul>
+      </li>
+			<li><a href="http://www.streamingmedia.com/About/About_Us" title="About">About</a>
+      <ul>
+			<li><a href="http://www.streamingmedia.com/About/What_Is_Streaming" title="What is Streaming?">What is Streaming?</a></li>
+			<li><a href="http://www.streamingmedia.com/About/About_Us" title="About Ss">About Us</a></li>
+			<li><a href="http://www.streamingmedia.com/About/Contact_Us" title="Contact Us">Contact Us</a></li>
+			<li><a href="http://www.streamingmedia.com/About/How_to_Advertise" title="How to Advertise">How to Advertise</a></li>
+			<li><a href="http://www.streamingmedia.com/mediakit/2011/StreamingMedia-Magazine-2011-Editorial-Calendar.pdf" title="Editorial Calendar">Editorial Calendar</a></li>
+			<li><a href="http://www.streamingmedia.com/About/Editorial_Submissions" title="Editorial Submissions">Editorial Submissions</a></li>
+			<li><a href="http://www.streamingmedia.com/mediakit/2011/StreamingMedia-Magazine-2011-Reprints.pdf" title="Reprints">Reprints</a></li>
+			<li><a href="http://www.streamingmedia.com/PressRelease/AddPressRelease.aspx" title="Press Release Submissions">Press Release Submissions</a></li>
+      </ul>
+    </li>
+		</ul>
+	</div>
+</div>
+        <!-- end header module -->
+       <div class="container">
+       		<div id="body">
+				<div id="ad468">
+					
+<!-- begin doubleclick 468x60 module -->
+<script type="text/javascript">
+  GA_googleFillSlot("StreamingMedia-Banners");
+</script>
+<!-- end doubleclick 468x60 module -->
+
+
+
+
+
+
+
+				</div>
+                
+    
+<div id="bdyRight">
+
+    <div align="center" style="margin-bottom:15px;">
+
+        
+<div style="display: block; height: 30px; padding: 0px 0px 10px 0px; background: url(/images/TemplateImages/searchBg.gif) no-repeat; width: 300px;">
+    <div style="float: left; width: 270px;">
+        <input id="txtQuery" name="txtQuery" type="text" style="background: none; width: 265px; padding: 6px 0px 0px 5px; height: 20px; border: none; font: bold 12px Arial, Helvetica, sans-serif;" value="SEARCH STREAMINGMEDIA.COM" onclick="this.value='';" />
+    </div>
+    <div id="SearchButton" style="background: none; width: 30px; height: 30px; border: none; cursor: pointer; float: right;" onclick="btnSearch_onclick()">
+        &nbsp;</div>
+
+    <script language="javascript" src="http://www.streamingmedia.com/scripts/Search_Script.js"></script>
+    <script language=javascript type="text/javascript">
+var nav = window.Event ? true : false; 
+if (nav) { 
+	window.captureEvents(Event.KEYDOWN); 
+	window.onkeydown = NetscapeEventHandler_KeyDown;
+} 
+else {
+	document.onkeydown = MicrosoftEventHandler_KeyDown;
+}
+function NetscapeEventHandler_KeyDown(e) {
+	if (e.which == 13 && e.target.type != 'textarea' && e.target.type != 'submit') {
+		if (e.target.name == 'txtQuery') {
+			document.location.href = '/Search/Default.aspx?Query=' +  escape(e.target.value);
+		}
+		return false;
+	}
+	return true; 
+} 
+
+function MicrosoftEventHandler_KeyDown() {
+	if (event.keyCode == 13 && event.srcElement.type != 'textarea' && event.srcElement.type != 'submit') {
+		if (event.srcElement.name == 'txtQuery') {
+			document.location.href = '/Search/Default.aspx?Query=' +  escape(event.srcElement.value);
+		}
+		return false;
+	}
+	return true; 
+}   
+    </script>
+</div>
+
+
+      <div style="margin-bottom: 10px; margin-top: -10px;">
+				<table border="0" cellspacing="2" cellpadding="2" width="150" align="center">
+<tbody>
+<tr>
+<td width="50" align="center" valign="middle"><a href="http://www.facebook.com/StreamingMedia" target="_blank"><img id="Streaming Media on Facebook" src="http://www.streamingmedia.com/Images/SocialIcons/facebook.png" border="0" alt="Streaming Media on Facebook" width="32" height="32" /></a></td>
+<td width="50" align="center" valign="middle"><a href="http://twitter.com/StreamingMedia" target="_blank"><img id="Streaming Media on Twitter" src="http://www.streamingmedia.com/Images/SocialIcons/twitter.png" border="0" alt="Streaming Media on Twitter" width="32" height="32" /></a></td>
+<td width="50" align="center" valign="middle"><a href="http://www.linkedin.com/groups/Streaming-Media-Events-2972181" target="_blank"><img id="Streaming Media on LinkedIn" src="http://www.streamingmedia.com/Images/SocialIcons/linkedin.png" border="0" alt="Streaming Media on LinkedIn" width="32" height="32" /></a></td>
+</tr>
+</tbody>
+</table>
+        <table class="tblStroke" border="0" cellspacing="0" cellpadding="3" width="300">
+<tbody>
+<tr>
+<td>
+<div class="redlabel">Recent and Upcoming Conferences</div>
+</td>
+</tr>
+<tr>
+<td align="left">
+<table style="width: 100%;" border="0" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<td class="smallmenu" align="left" valign="top" bgcolor="#ffffff"><a href="http://www.streamingmedia.com/Conferences/West/"><strong>Streaming Media West</strong> <span class="HideMeNL">[8-9 November 2011]</span></a></td>
+</tr>
+<tr>
+<td class="smallmenu" style="background-color: #cccccc;" align="left" valign="top" bgcolor="#dedede"><a href="http://www.html5videosummit.com/"><strong>HTML5 Video Summit</strong> <span class="HideMeNL">[8-9 November 2011]</span></a></td>
+</tr>
+<tr>
+<td class="smallmenu" align="left" valign="top" bgcolor="#ffffff"><strong>Content Delivery Summit</strong> <span class="HideMeNL">[14 May 2012]</span></td>
+</tr>
+<tr>
+<td class="smallmenu" style="background-color: #cccccc;" align="left" valign="top" bgcolor="#dedede"><a href="http://www.streamingmedia.com/conferences/East2012/"><strong>Streaming Media East</strong> <span class="HideMeNL">[15-16 May 2012]</span></a></td>
+</tr>
+<tr>
+<td class="smallmenu" align="left" valign="top" bgcolor="#ffffff"><strong>Streaming Media West</strong> <span class="HideMeNL">[30-31 October 2012]</span></td>
+</tr>
+<tr>
+<td class="smallmenu" style="background-color: #ffffff;" align="left" valign="top" bgcolor="#ffffff"><a href="http://www.streamingmedia.com/Conferences/"><strong>Past Conferences</strong></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+      </div>
+
+        
+
+<!-- begin doubleclick 300x250 module -->
+<script type="text/javascript">
+  GA_googleFillSlot("StreamingMedia-SmallBoxes");
+</script>
+<!-- end doubleclick 300x250 module -->
+
+
+    <div style="margin-top:45px; margin-bottom:15px;">
+        
+<div class="tabBox">
+    <div class="nav">
+        <ul>
+            <li id="rcBotLi1" class="tabOn"><a href="javascript:btnRC1('rcBot','1')">Popular</a></li>
+            <li id="rcBotLi2" class="tabOff"><a href="javascript:btnRC1('rcBot','2')">Articles</a></li>
+            <li id="rcBotLi3" class="tabOff"><a href="javascript:btnRC1('rcBot','3')">News</a></li>
+            <li id="rcBotLi4" class="tabOff"><a href="javascript:btnRC1('rcBot','4')">Forums</a></li>
+        </ul>
+    </div>
+    <div class="body">
+        <div id="rcBot1" style="display: block">
+          <div class="bloglabel">Top 10 Most Popular Articles</div>
+            
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_1_ctl00_rptArticles_ctl00_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/How-Synergy-Drives-the-PlayStation-Network-79607.aspx" style="font-weight:bold;">How Synergy Drives the PlayStation Network</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_1_ctl00_rptArticles_ctl01_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Stream-Live-Video-on-a-Budget-with-Teradek-79608.aspx" style="font-weight:bold;">Stream Live Video on a Budget with Teradek</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_1_ctl00_rptArticles_ctl02_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Hearst-Rides-the-Mobile-Video-Wave-79591.aspx" style="font-weight:bold;">Hearst Rides the Mobile Video Wave</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_1_ctl00_rptArticles_ctl03_ArticleTitle" href="http://www.streamingmedia.com/Articles/News/Featured-News/Akamai-Will-Acquire-Cotendo-for-%24268M-79598.aspx" style="font-weight:bold;">Akamai Will Acquire Cotendo for $268M</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_1_ctl00_rptArticles_ctl04_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/WatchMojo-Wins-with-Slow-and-Steady-Online-Video-Growth-79670.aspx" style="font-weight:bold;">WatchMojo Wins with Slow and Steady Online Video Growth</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_1_ctl00_rptArticles_ctl05_ArticleTitle" href="http://www.streamingmedia.com/Articles/News/Featured-News/Roku-Announces-New-Product-Streaming-Stick-for-Cord-Free-Hookup-79673.aspx" style="font-weight:bold;">Roku Announces New Product: Streaming Stick for Cord-Free Hookup</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_1_ctl00_rptArticles_ctl06_ArticleTitle" href="http://www.streamingmedia.com/Articles/News/Featured-News/Social-Video-Ad-Firm-Unruly-Media-Closes-%2425M-in-Funding-79690.aspx" style="font-weight:bold;">Social Video Ad Firm Unruly Media Closes $25M in Funding</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_1_ctl00_rptArticles_ctl07_ArticleTitle" href="http://www.streamingmedia.com/Articles/News/Featured-News/Netflix-Streamed-2B-Hours-of-Video-in-Fourth-Quarter-2011-79691.aspx" style="font-weight:bold;">Netflix Streamed 2B Hours of Video in Fourth Quarter 2011</a></div>
+	
+		<div>&nbsp;</div>
+	
+
+        </div>
+        <div id="rcBot2" style="display: none">			
+          <div class="bloglabel">Recent Featured Articles</div>
+            
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_2_ctl00_rptArticles_ctl00_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/WatchMojo-Wins-with-Slow-and-Steady-Online-Video-Growth-79670.aspx" style="font-weight:bold;">WatchMojo Wins with Slow and Steady Online Video Growth</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_2_ctl00_rptArticles_ctl01_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Stream-Live-Video-on-a-Budget-with-Teradek-79608.aspx" style="font-weight:bold;">Stream Live Video on a Budget with Teradek</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_2_ctl00_rptArticles_ctl02_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/How-Synergy-Drives-the-PlayStation-Network-79607.aspx" style="font-weight:bold;">How Synergy Drives the PlayStation Network</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_2_ctl00_rptArticles_ctl03_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Hearst-Rides-the-Mobile-Video-Wave-79591.aspx" style="font-weight:bold;">Hearst Rides the Mobile Video Wave</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_2_ctl00_rptArticles_ctl04_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Enterprise-Streaming-Moves-from-Windows-to-Flash-MediaPlatform-79559.aspx" style="font-weight:bold;">Enterprise Streaming Moves from Windows to Flash: MediaPlatform</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_2_ctl00_rptArticles_ctl05_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/WTF-is-Marc-Maron-Up-To-79558.aspx" style="font-weight:bold;">WTF is Marc Maron Up To?</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_2_ctl00_rptArticles_ctl06_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Google-TV-Aims-to-Make-it-Delightful-with-2.0-Release-79524.aspx" style="font-weight:bold;">Google TV Aims to 'Make it Delightful' with 2.0 Release</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_2_ctl00_rptArticles_ctl07_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Logitech-Updates-the-Revue-(Sort-Of)-79517.aspx" style="font-weight:bold;">Logitech Updates the Revue (Sort Of)</a></div>
+	
+		<div>&nbsp;</div>
+	
+
+        </div>
+        <div id="rcBot3" style="display: none">
+          <div class="bloglabel">Recent Streaming Media News</div>
+            
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_3_ctl00_rptArticles_ctl00_ArticleTitle" href="http://www.streamingmedia.com/Articles/News/Featured-News/Roku-Announces-New-Product-Streaming-Stick-for-Cord-Free-Hookup-79673.aspx" style="font-weight:bold;">Roku Announces New Product: Streaming Stick for Cord-Free Hookup</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_3_ctl00_rptArticles_ctl01_ArticleTitle" href="http://www.streamingmedia.com/Articles/News/Featured-News/Netflix-Streamed-2B-Hours-of-Video-in-Fourth-Quarter-2011-79691.aspx" style="font-weight:bold;">Netflix Streamed 2B Hours of Video in Fourth Quarter 2011</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_3_ctl00_rptArticles_ctl02_ArticleTitle" href="http://www.streamingmedia.com/Articles/News/Featured-News/Social-Video-Ad-Firm-Unruly-Media-Closes-%2425M-in-Funding-79690.aspx" style="font-weight:bold;">Social Video Ad Firm Unruly Media Closes $25M in Funding</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_3_ctl00_rptArticles_ctl03_ArticleTitle" href="http://www.streamingmedia.com/Articles/News/Featured-News/Akamai-Will-Acquire-Cotendo-for-%24268M-79598.aspx" style="font-weight:bold;">Akamai Will Acquire Cotendo for $268M</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_3_ctl00_rptArticles_ctl04_ArticleTitle" href="http://www.streamingmedia.com/Articles/News/Featured-News/Telestream-Will-Be-Acquired-by-Thoma-Bravo-Investment-Firm-79590.aspx" style="font-weight:bold;">Telestream Will Be Acquired by Thoma Bravo, Investment Firm</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_3_ctl00_rptArticles_ctl05_ArticleTitle" href="http://www.streamingmedia.com/Articles/News/Featured-News/Vevo-Turns-2-Doubles-Audience-Since-Launch-79578.aspx" style="font-weight:bold;">Vevo Turns 2, Doubles Audience Since Launch</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_3_ctl00_rptArticles_ctl06_ArticleTitle" href="http://www.streamingmedia.com/Articles/News/Featured-News/H.264-Continues-to-Expand-Lead-for-HTML5-Playback-Says-MeFeedia-79530.aspx" style="font-weight:bold;">H.264 Continues to Expand Lead for HTML5 Playback, Says MeFeedia</a></div>
+	
+        <div style="text-align:left;width:150;padding-bottom:6px;padding-top:6px;margin-left:5px;margin-right:5px;"><a id="ctl00_ContentPlaceHolder1_RightColumn_1_ThreeTabbedBox_1_ArticleList_3_ctl00_rptArticles_ctl07_ArticleTitle" href="http://www.streamingmedia.com/Articles/News/Featured-News/ZappoTV-Announces-2.0-Version-of-iPad-and-iPhone-App-79525.aspx" style="font-weight:bold;">ZappoTV Announces 2.0 Version of iPad and iPhone App</a></div>
+	
+		<div>&nbsp;</div>
+	
+
+        </div>
+		<div id="rcBot4" style="display: none">
+			<div class="bloglabel">Latest from the Forums</div>					
+			<script language='javascript' type='text/javascript' src='http://webtools.onlineinc.com/feeds/feeds.php?site=smforums'></script>
+		</div>  
+    </div>
+</div>
+
+    </div>
+
+        
+<!-- begin doubleclick 160x600 module -->
+<script type="text/javascript">
+  GA_googleFillSlot("StreamingMedia-WideSkyscrapers");
+</script>
+<!-- end doubleclick 160x600 module -->
+
+       </div> 
+
+        
+        <div class="box">
+        <div class="line">
+            <a id="ctl00_ContentPlaceHolder1_RightColumn_1_IssueList_1_ctl00_rptIssues_ctl00_lnkViewCurrentIssue" href="http://www.streamingmedia.com/Issue/3081-DECEMBER-2011-JANUARY-2012.htm"><img src="http://www.streamingmedia.com/Images/Default.aspx?ImageID=11948&amp;display=75" style="border-width:0px;" /></a>
+           <center>
+            <h3>
+                <span id="ctl00_ContentPlaceHolder1_RightColumn_1_IssueList_1_ctl00_rptIssues_ctl00_CaptionText"><em>Streaming Media</em><br />Magazine</span></h3>
+                <span id="ctl00_ContentPlaceHolder1_RightColumn_1_IssueList_1_ctl00_rptIssues_ctl00_lblCurrentIssueName" style="font-weight:bold;">DECEMBER 2011/JANUARY 2012</span>
+              <br />
+               <a href="http://www.omeda.com/strm" target="_blank" style="font-weight: bold;">Subscribe</a>
+               </center>  
+        </div>  
+        <div class="line" style="display:block; height:13px;">
+            <a id="ctl00_ContentPlaceHolder1_RightColumn_1_IssueList_1_ctl00_rptIssues_ctl00_lnkViewIssue" href="http://www.streamingmedia.com/Issue/3081-DECEMBER-2011-JANUARY-2012.htm" style="width: 114px; float:left; font-weight:bold; display:inline-block; ">Current Issue</a>
+            <a id="ctl00_ContentPlaceHolder1_RightColumn_1_IssueList_1_ctl00_rptIssues_ctl00_lnkPastIssue" href="http://www.streamingmedia.com/Previous_Issues/" style="width: 100px; float:right; font-weight:bold; display:inline-block; text-align:right">Past Issues</a>
+        </div>
+        <div class="magazine">
+            <ul>
+                <li>
+                    
+        <ul>
+    
+        <li>
+            <a id="ctl00_ContentPlaceHolder1_RightColumn_1_IssueList_1_ctl00_rptIssues_ctl00_ArticleList1_ctl00_rptArticles_ctl01_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Celebs-on-the-Web-Hollywood-Discovers-Streaming-Video-79269.aspx">Celebs on the Web: Hollywood Discovers Streaming Video</a></li>
+    
+        <li>
+            <a id="ctl00_ContentPlaceHolder1_RightColumn_1_IssueList_1_ctl00_rptIssues_ctl00_ArticleList1_ctl00_rptArticles_ctl02_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/HTML5-Is-Taking-Over-the-Web-Right-Not-so-Fast-78992.aspx">HTML5 Is Taking Over the Web, Right? Not so Fast…</a></li>
+    
+        <li>
+            <a id="ctl00_ContentPlaceHolder1_RightColumn_1_IssueList_1_ctl00_rptIssues_ctl00_ArticleList1_ctl00_rptArticles_ctl03_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Review-NewTek-TriCaster-TCXD850-Extreme-79308.aspx">Review: NewTek TriCaster TCXD850 Extreme</a></li>
+    
+        <li>
+            <a id="ctl00_ContentPlaceHolder1_RightColumn_1_IssueList_1_ctl00_rptIssues_ctl00_ArticleList1_ctl00_rptArticles_ctl04_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Cord-Cutting-Easier-Said-Than-Done-Commentary-79311.aspx">Cord-Cutting Easier Said Than Done: Commentary</a></li>
+    
+        <li>
+            <a id="ctl00_ContentPlaceHolder1_RightColumn_1_IssueList_1_ctl00_rptIssues_ctl00_ArticleList1_ctl00_rptArticles_ctl05_ArticleTitle" href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/DRM-Is-Dead-79353.aspx">DRM Is Dead</a></li>
+    
+        </ul>
+    
+
+                </li>
+            </ul>
+        </div>
+    </div>
+    
+
+   
+    <br />
+    <script type="text/javascript" src="http://cdn.widgetserver.com/syndication/subscriber/InsertWidget.js"></script><script type="text/javascript">if (WIDGETBOX) WIDGETBOX.renderWidget('b7c4737a-3024-40e2-990d-7d2d8e149da1');</script><noscript>Visit ReelSEO.com for <a href="http://www.reelseo.com/" target="blank">web video marketing</a> tips, trends, news and insights.</noscript>
+<br clear="all" />
+</div>
+
+    <div id="bdyMid_page">
+
+		<table width="100%" cellspacing="0" cellpadding="5">
+					<tr>
+				<td class="bgtop">Page Not Found</td>
+			</tr>
+
+		<tr>
+			<td align="center" class="title"><br>
+Thank you for visiting StreamingMedia.com!<br />
+
+		  <BR>Unfortunately, we are unable to<br />locate the page you requested.</td>
+		</tr>
+		<tr>
+			<td align="center"><BR><b>The page may have moved or may no longer be available.</b></td>
+		</tr>
+		<tr>
+			<td align="center"><br>
+<table border="0" cellpadding="6" cellspacing="1" bgcolor="#999999">
+              <tr align="center">
+                <td colspan="2" bgcolor="#CCCCCC">Please use the links in the navigation drop-down menu at the top of the page, or search StreamingMedia.com.<br>
+                You may also browse the following areas of StreamingMedia.com: </td>
+              </tr>
+          <tr bgcolor="#FFFFFF">
+                <td width="50%" align="center"><a href="http://www.streamingmedia.com/Previous_Issue/"><em>Streaming Media </em>Magazine Archives</a></td>
+                <td width="50%" align="center"><a href="http://www.streamingmedia.com/Conferences/">Streaming Media Conferences</a></td>
+              </tr>
+              <tr bgcolor="#FFFFFF">
+                <td width="50%" align="center"><a href="http://www.streamingmedia.com/Articles/News/">Streaming Media News</a></td>
+                <td width="50%" align="center"><a href="http://www.streamingmedia.com/Articles/Features/">Streaming Media Featured Articles</a></td>
+              </tr>
+              <tr bgcolor="#FFFFFF">
+                <td width="50%" align="center"><a href="http://www.streamingmedia.com/Whitepapers">Streaming Media White Papers</a></td>
+                <td width="50%" align="center"><a href="http://www.streamingmedia.com/SponsoredContent">Industry White Papers</a></td>
+              </tr>
+              <tr bgcolor="#FFFFFF">
+                <td width="50%" align="center"><a href="http://www.streamingmedia.com/Sourcebook/">StreamingMedia.com Sourcebook</a></td>
+      <td width="50%" align="center"><a href="http://www.streamingmedia.com/Webevents/">StreamingMedia Web Events</a></td>
+              </tr>
+              <tr bgcolor="#FFFFFF">
+                <td width="50%" align="center"><a href="http://www.streamingmedia.com/Newsletters/">Streaming Media Xtra e-newsletter</a></td>
+                <td width="50%" align="center"><a href="http://www.streamingmedia.com/Jobs/">Jobs</a></td>
+              </tr>
+              <tr bgcolor="#CC99FF">
+                <td colspan="2" align="center"><a style="font-weight:bold;" href="http://streamingmediaglobal.com">See also: StreamingMediaGlobal.com</td>
+              </tr>
+            </table>
+			  <br>
+		  </td>
+		</tr>
+		<tr>
+			<td align="center">
+				For additional assistance, please 
+				<a href="mailto:webmaster@StreamingMedia.com">send e-mail</a> to our Customer Care team. We appreciate your help!
+			</td>
+		</tr>
+	</table>
+</div>
+
+
+        	</div>
+
+<!-- begin sponsored link module -->
+          <div class="sponlinkbox">
+              <div class="sponlinkhdr">SPONSORED LINKS</div>
+                <div class="sponlink">
+		<a id="ctl00_TextLinksList_ctl00_rptTextLinks_ctl00_TextLink" href="http://www.onlinevideo.net" target="_blank" style="font-weight:bold;">Need instructional help with Online Video? Check out our new resource - OnlineVideo.net</a>
+	
+
+                </div>
+          </div>
+<!-- end sponsored link module -->
+
+       </div>  
+
+
+        <!-- begin footer module -->
+        <div id="footerWrapper">
+            <div class="container">
+                <div id="footer">
+                    <div id="ftrLeft" class="ftrMenu">
+                        <div class="ftrHeadline">
+                            INSIDE STREAMINGMEDIA.COM</div>
+                        <div class="ftrPad ftrFloatL">
+                            <ul>
+                                <li><a href="http://blog.streamingmedia.com" target="_blank">Blog</a></li>
+                                <li><a href="http://www.streamingmedia.com/Previous_Issues"><em>SM</em> Magazine</a></li>
+                                <li><a href="http://www.streamingmedia.com/StreamingMediaTV">Streaming Media TV</a></li>
+                                <li><a href="http://www.streamingmedia.com/ConferenceVideos">Conference Videos</a></li>
+                                <li><a href="http://www.streamingmedia.com/Tutorials">Video Tutorials</a></li>
+                                <li><a href="http://www.streamingmedia.com/ReadersChoice">Readers Choice</a></li>
+                                <!--<li><a href="">Podcasts</a></li>-->
+                                <!-- <li><a href="http://www.streamingmedia.com/Research">Research Reports</a></li> -->
+                               <li><a href="http://www.streamingmedia.com/PressRelease/">Press Releases</a></li> 
+                                <li><a href="http://www.streamingmedia.com/WebEvents">Web Events</a></li>
+                                <li><a href="http://www.streamingmedia.com/About/About_Us">About Us</a></li>
+                            </ul>
+                        </div>
+                        <div class="ftrFloatR">
+                            <ul>
+                                <li><a href="http://www.streamingmedia.com/Newsletters">Newsletters</a></li>
+                                <li><a href="http://www.streamingmedia.com/Articles/News">Industry News</a></li>
+                                <li><a href="http://www.streamingmedia.com/Whitepapers"><em>SM</em> White Papers</a></li>
+                                <li><a href="http://www.streamingmedia.com/SponsoredContent">Industry White Papers</a></li>
+                                <li><a href="http://forums.streamingmedia.com/">Forums</a></li>
+                                <li><a href="http://www.streamingmedia.com/Discussion">Discussion Lists</a></li>
+                                <li><a href="http://www.streamingmedia.com/Sourcebook">Industry Directory</a></li>
+                                <li><a href="http://www.streamingmedia.com/Jobs">Industry Jobs</a></li>
+                                <li><a href="http://www.streamingmedia.com/About/Contact_Us">Contact Us</a></li>
+                                <li><a href="http://www.streamingmedia.com/Articles/Editorial/What-Is/What-is-Streaming-74052.aspx" title="What Is Streaming">What Is Streaming</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+<div id="ftrMid" class="ftrMenu">
+    <div class="ftrHeadline">
+        RESEARCH CENTERS</div>
+        <div class="ftrPad ftrFloatL"><ul><li><span class="ftrMenuhead">TOPICS</span><ul><li><a href="http://www.streamingmedia.com/Categories/Advertising_427.aspx">Advertising</a></li><li><a href="http://www.streamingmedia.com/Categories/Content-Protection-DRM_428.aspx">Content Protection/DRM</a></li><li><a href="http://www.streamingmedia.com/Categories/Formats-Players-Codecs_429.aspx">Formats/Players/Codecs</a></li><li><a href="http://www.streamingmedia.com/Categories/IPTV_430.aspx">IPTV</a></li><li><a href="http://www.streamingmedia.com/Categories/Mobile_431.aspx">Mobile</a></li><li><a href="http://www.streamingmedia.com/Categories/Online-Video-Platforms_433.aspx">Online Video Platforms</a></li></ul></li></div><div class="ftrPad ftrFloatL"><ul><li>&nbsp;<ul><li><a href="http://www.streamingmedia.com/Categories/Content-Creation-Production_421.aspx">Content Creation/Production</a></li><li><a href="http://www.streamingmedia.com/Categories/Encoding-Transcoding_422.aspx">Encoding/Transcoding</a></li><li><a href="http://www.streamingmedia.com/Categories/Hosting-Delivery_419.aspx">Hosting/Delivery</a></li><li><a href="http://www.streamingmedia.com/Categories/Legal-Issues_436.aspx">Legal Issues</a></li><li><a href="http://www.streamingmedia.com/Categories/Music-Radio_432.aspx">Music/Radio</a></li><li><a href="http://www.streamingmedia.com/Categories/Video-SEO_434.aspx">Video SEO</a></li></ul></li></div>
+        <div class="ftrFloatR"><ul><li><span class="ftrMenuhead">VERTICALS</span><ul><li><a href="http://www.streamingmedia.com/Categories/Education_426.aspx">Education</a></li><li><a href="http://www.streamingmedia.com/Categories/Enterprise_424.aspx">Enterprise</a></li><li><a href="http://www.streamingmedia.com/Categories/Government_435.aspx">Government</a></li><li><a href="http://www.streamingmedia.com/Categories/Media-Entertainment_425.aspx">Media/Entertainment</a></li><li><a href="http://www.streamingmedia.com/Categories/Streaming-Industry_423.aspx">Streaming Industry</a></li></ul></li></div>
+</div>
+
+                    <div id="ftrRight" class="ftrMenu">
+                        <div class="ftrHeadline">
+                            OTHER ITI SITES</div>
+                        <ul>
+                            <!--<li><a href="http://www.dbta.com/" target="_new">Database Trends &amp; Applications</a></li>-->
+                            <li><a href="http://www.StreamingMediaGlobal.com/">Streaming Media Global</a></li>
+                            <li><a href="http://www.destinationCRM.com/" target="_new">destinationCRM</a></li>
+                            <li><a href="http://www.econtentmag.com/" target="_new">EContent</a></li>
+                            <li><a href="http://www.eventdv.net/" target="_new">EventDV</a></li>
+                            <!--<li><a href="http://www.enterprisesearchcenter.com" target="_new">Enterprise Search Center</a></li>-->
+                            <li><a href="http://www.faulkner.com/" target="_new">Faulkner Information Services</a></li>
+                            <li><a href="http://www.InfoToday.com/" target="_new">Information Today</a></li>
+                            <li><a href="http://www.InfoToday.eu/" target="_new">Information Today Europe</a></li>
+                            <li><a href="http://www.ITIResearch.com/" target="_new">ITIResearch.com</a></li>
+                            <li><a href="http://www.kmworld.com/" target="_new">KMWorld</a></li>
+                            <li><a href="http://www.OnlineVideo.net/" target="_new">OnlineVideo.net</a></li>
+                            <!--<li><a href="http://www.mmischools.com" target="_new">Multimedia &amp; Internet@Schools</a></li>
+                            <li><a href="http://www.onlinemag.net/" target="_new">ONLINE Magazine</a></li>-->
+                            <li><a href="http://www.speechtechmag.com/" target="_new">Speech Technology</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div id="copyright">
+                    &copy; 2000 -
+                    2012, StreamingMedia.com, an Information Today, Inc. (ITI) company<br />
+<a style="color:#FFFFFF;text-decoration:none;" href="http://www.infotoday.com/privacy.shtml" target="_new">[Privacy Policy]</a>
+                </div>
+            </div>
+        </div>
+
+        <script>
+
+function btnRC1(group,id){
+	var pc = 0;
+	var tab;
+	if(group == "rcTop"){
+		pc = 3;
+	}
+	if(group == "rcBot"){
+		pc=4;	
+	}
+	if(pc == 0)
+		return;
+		
+	
+	for (n = 1; n < pc + 1; n++){
+		buf = group+n;
+		tab = group+"Li"+n;
+		if(n == id){
+			document.getElementById(buf).style.display = "block";
+			document.getElementById(tab).className = "tabOn";
+		}
+		else{
+			document.getElementById(buf).style.display = "none";
+			document.getElementById(tab).className = "tabOff";
+		}
+	}
+
+}
+</script>
+
+        <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+        <script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-13073004-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+        <!-- end footer module -->
+    </form>
+</body>
+</html>

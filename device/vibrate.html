@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>W3C Vibrate API test</title>
+<script type="text/javascript">
+  if (navigator.vibrate!=undefined) {
+	  vibrateTest1();
+  } else {
+		alert("Vibrate API not available");
+  }
+  
+  function vibrateTest1()
+  {
+	  // vibrate for 1 second 
+	　navigator.vibrate(1000);
+
+	　// or alternatively 
+	　// navigator.vibrate([1000]);
+  }
+  function vibrateTest2()
+  {
+	//触屏设备振动1秒钟，静止1秒后，再次振动2秒钟 
+  	navigator.vibrate([1000, 1000, 2000]);
+  }
+</script>
+</head>
+<body>
+  <a href="http://www.w3.org/TR/vibration/">Vibration API</a>
+  <h5>触屏设备振动1秒钟</h5>
+  <br>
+  <button onclick="vibrateTest1()">振动1秒</button>
+  <br>
+  <h5>触屏设备振动1秒钟，静止1秒后，再次振动2秒钟</h5>
+  <br>
+  <button onclick="vibrateTest2()">间隔振动</button>
+</body>
+</html>

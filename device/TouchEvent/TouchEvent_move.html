@@ -1,0 +1,33 @@
+<!--来源：http://www.189works.com/article-59777-1.html-->
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+  <div id="box" style="position:absolute; left:40px; top:60px; background-color:#3CF; width:200px; height:300px;">
+  </div>
+  
+  <script type="text/javascript">
+    window.addEventListener('load', function() {    
+        var b = document.getElementById('box'); 
+		// half the box width 
+        var xbox = b.offsetWidth/ 2;  
+		// half the box height    
+        var ybox = b.offsetHeight/ 2;  
+		// cached access to the style object 
+        var bbstyle = b.style;    
+		alert("before:left=" + b.style.left + " top=" + b.style.top);
+		 
+        b.addEventListener('touchmove', function(event) {  
+           event.preventDefault(); // the default behaviour is scrolling  
+           b.style.left =  event.targetTouches[0].pageX + 'px';  
+           b.style.top  =  event.targetTouches[0].pageY + 'px';  
+		   //alert("after:left=" + b.style.left + " top=" + b.style.top);
+        }, false);    
+    }, false); 
+  </script>
+</body>
+</html>

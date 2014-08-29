@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Contacts API</title>
+<script type="text/javascript">
+if (navigator.contacts!=undefined) {
+	alert ("contacts API is supported ");
+} else {
+	alert("contacts API not available");
+}
+
+function success (contacts) {
+    // do something with resulting contact objects
+    for (var i in contacts) 
+    	alert(contacts[i].name);
+}
+
+function error (err) {
+    // do something with resulting error
+    alert(err.code);
+}
+
+// Perform an address book search. Obtain the 'name' and 'emails' properties 
+// and initially filter the list to Contact records containing 'Bob':
+navigator.contacts.find(  ['name', 'emails'], success, error, {filter: 'Bob'} );
+// ..is equivalent to: navigator.contacts(/* parameters */)
+</script>
+</head>
+<body>
+  <a href="http://www.w3.org/TR/contacts-api/">Contacts API</a>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>HTML Media Capture API Test</title>
+<script type="text/javascript">
+	var captureInput = document.getElementById('capture');
+	//Accessing the file object from the input element with id capture
+	var file = captureInput.files[0];
+	if (file) {
+		// getting format data asynchronously
+		file.getFormatData(displayFormatData, errorHandler);
+	}
+
+	//success callback when getting format data
+	function displayFormatData(formatData) {  
+		var mainType = file.type.split("/")[0]; // "image", "video" or "audio"
+		var mediaDescriptionNode = document.createElement("p");
+		if (mainType === "image") {
+ 			mediaDescriptionNode.appendChild(document.createTextNode("This is an image of dimensions " + formatData.width + "x" + formatData.height));
+		} else {
+			mediaDescriptionNode.appendChild(document.createTextNode("Duration: " + formatData.duration  + "s");
+		}
+		captureInput.parentNode.insertBefore(mediaDescriptionNode, captureInput);
+	}
+
+	//error callback if getting format data fails
+	function errorHandler(error) {
+		alert("Couldn’t retrieve format properties for the selected file (error code " + error.code + ")");
+	}
+</script>
+</head>
+<body>
+  <a href="http://www.w3.org/TR/2012/WD-html-media-capture-20120529/#examples">HTML Media Capture</a>
+  <input id="capture" type="file" accept="image/*" capture="camera"> 
+</body>
+</html>

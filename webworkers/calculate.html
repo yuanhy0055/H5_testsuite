@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <title>使用后台进程完成球和运算</title>
+ <script type="text/javascript">
+  // 创建执行运算的线程 
+  var worker = new Worker("calculateWorker.js");
+  // 接收从线程传出的计算结果 
+  worker.onmessage = function(event)
+  {
+	//alert("合计值为：" + event.data);	
+	console.log("合计值为：" + event.data);
+	result = document.getElementById("result");  
+	result.innerHTML = event.data;
+  };
+  worker.onerror = function(event) {
+	  alert('error message : '+ event.message + '\nerror filename: ' + event.filename + '\nerror lineno  : ' + event.lineno);
+  };
+  
+  function calculate()
+  {
+	  var num = parseInt(document.getElementById("num").value, 10);
+	  alert("the num is :" + num);
+	  // 将数值传给线程 
+	  worker.postMessage(num);
+  }
+ </script>
+</head>
+<body>
+ <h2>从1到给定数值的求和运算</h2>
+ 输入数值：<input type = "text" id = "num">
+ <button onclick = "calculate()">计算</button>
+ <br>
+ 合计值为：<p id="result"></P>
+</body>
+</html>

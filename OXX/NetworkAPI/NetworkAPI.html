@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Poney viewer</title>
+    <script type="text/javascript" src="jquery-1.7.2.js"></script>
+    <script type="text/javascript" src="NetworkAPI.js"></script>
+    <link rel='stylesheet' type='text/css' href='networkAPI.css'>
+  </head>
+  <body>
+    <h1>Network API test</h1>
+    <div id="box">
+        <div id="network"></div>
+        <div id="text">
+            <span style="display: block" id="bandwidth">Network bandwidth: unknown</span>
+        </div>
+    </div>
+    <!--<img id='poney' alt="An image showing a poney" title="My precious!">-->
+       <script>
+      /*var i = document.getElementById('poney');
+      var connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+
+      if (connection.bandwidth >2) {
+        i.src = "./poney_hd.png";
+        //  alert("bandwidth: "+connection.bandwidth);
+      } else {
+        i.src = "./poney_ld.png";
+      }
+      */
+      // setup the image
+      var n = new Network("Wrt_battery_component_empty.png", "Wrt_battery_component_full.png", 96, 168);
+      $("#network").append(n.domElement);
+
+      // get the network information
+      var connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+      value=connection.bandwidth;
+
+      $('#bandwidth').text("connection bandwidth: " + connection.bandwidth+ "MB/s");
+
+      if(value>100)
+          value=100;
+      n.updateNetwork(value);
+
+      network.addEventListener("change",function(e){
+          value=connection.bandwidth;
+          if(value>100)
+              value=100;
+          n.updateNetwork(value);
+      },false);
+
+       </script>
+  </body>
+</html>
